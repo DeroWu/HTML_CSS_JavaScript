@@ -1,0 +1,47 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+}
+
+ul {
+    overflow: auto;
+    list-style-type: none;
+    background-color: #000000;
+    line-height: 3em;
+    color: white;
+}
+
+li {
+    float: left;
+    width: auto;
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    font-size: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    display: inline-block;
+    width: auto;
+    color: white;
+    padding: 0 15px;
+}
+
+    #menu a:hover {
+        background-color: white;
+        color: black;
+    }
+
+#now {
+    background-color: #00CACA;
+    color: black;
+}
+
+article {
+    margin-top: 80px;
+}

@@ -1,0 +1,79 @@
+﻿#formSty {
+    font-family: 'sans-serif';
+}
+
+#filedSty {
+    border: 5px solid #3C3C3C;
+    border-radius: 20px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+#legndSty {
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+label.labelSty {
+    font-family: 'Monotype Corsiva','sans-serif';
+    font-size: 25px;
+    margin-bottom: 1em;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#subset {
+    text-align: right;
+}
+
+input.sty1 {
+    border-radius: 5px;
+    border: 2px solid #5B5B5B;
+    font-family: "標楷體";
+    font-size: 20px;
+    margin-bottom: 1em;
+}
+
+input.sty2 {
+    font-family: 'Monotype Corsiva','sans-serif';
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    width: 80px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding: 3px;
+}
+
+p.pSty {
+    color: #ADADAD;
+    font-family: "標楷體",'Ebrima';
+    margin-bottom: 0.8em;
+    margin-left: 10px;
+}
+
+hr {
+    margin-bottom: 0.5em;
+}
+
+.chgSty1 {
+    font-family: '標楷體';
+    font-size: 20px;
+    margin-bottom: 1em;
+}
+
+.chgSty2 {
+    font-family: 'Monotype Corsiva';
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin-bottom: 1em;
+}

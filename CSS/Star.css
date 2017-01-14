@@ -1,0 +1,28 @@
+﻿#artSty {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    padding: 5px;
+    height: 600px;
+}
+
+    #artSty img {
+    }
+
+#button {
+    text-align: right;
+    width: 100%;
+}
+
+    #button input {
+        font-family: 'Monotype Corsiva','sans-serif';
+        font-size: 20px;
+        background-color: black;
+        color: white;
+        width: 80px;
+        margin-right: 50px;
+        margin-top: 10px;
+        padding: 3px;
+        letter-spacing: 1px;
+    }

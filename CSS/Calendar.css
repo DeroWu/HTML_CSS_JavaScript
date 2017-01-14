@@ -1,0 +1,71 @@
+﻿article {
+    margin-top: 40px;
+}
+
+.formSty fieldset {
+    border: 5px solid #3C3C3C;
+    border-radius: 20px;
+    width: 800px;
+    height: 450px;
+    padding: 15px;
+    margin: auto;
+}
+
+.formSty legend {
+    width: 140px;
+    height: 30px;
+    line-height: 30px;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#year {
+    width: 80px;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#month {
+    width: 50px;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#day {
+    width: 50px;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.formSty span {
+    font-family: '標楷體';
+    font-size: 25px;
+}
+
+.formSty p {
+    color:#0066CC;
+    font-family: 'Matura MT Script Capitals','Cooper';
+    font-size: 95px;
+    letter-spacing: 3px;
+    margin-top: 10px;
+}
+
+#date {
+    margin: 0px;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+#weekDay {
+    margin: 0px;
+    float: right;
+}
